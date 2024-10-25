@@ -1,0 +1,15 @@
+{"time":"2024-10-21T08:22:25.392831197Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-21T08:22:25.39287299Z","level":"INFO","msg":"created symlink","path":"/data/ckpt/baoshifeng/vig_pytorch/wandb/offline-run-20241021_082225-bnp526bl/logs/debug-core.log"}
+{"time":"2024-10-21T08:22:30.439604381Z","level":"INFO","msg":"created new stream","id":"bnp526bl"}
+{"time":"2024-10-21T08:22:30.439697438Z","level":"INFO","msg":"stream: started","id":"bnp526bl"}
+{"time":"2024-10-21T08:22:30.439755163Z","level":"INFO","msg":"sender: started","stream_id":"bnp526bl"}
+{"time":"2024-10-21T08:22:30.439732502Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"bnp526bl"}}
+{"time":"2024-10-21T08:22:30.439754503Z","level":"INFO","msg":"handler: started","stream_id":{"value":"bnp526bl"}}
+{"time":"2024-10-21T08:22:30.475189034Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-21T08:22:30.550930895Z","level":"INFO","msg":"stream: closing","id":"bnp526bl"}
+{"time":"2024-10-21T08:22:30.550990223Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-21T08:22:30.551049325Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-21T08:22:30.551444251Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"bnp526bl"}}
+{"time":"2024-10-21T08:22:30.551494187Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"bnp526bl"}}
+{"time":"2024-10-21T08:22:30.551510868Z","level":"INFO","msg":"sender: closed","stream_id":"bnp526bl"}
+{"time":"2024-10-21T08:22:30.551566384Z","level":"INFO","msg":"stream: closed","id":"bnp526bl"}

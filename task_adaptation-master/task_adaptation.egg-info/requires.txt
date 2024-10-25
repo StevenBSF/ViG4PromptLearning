@@ -1,0 +1,8 @@
+absl-py
+numpy
+six
+mock
+tensorflow
+tfds-nightly
+tensorflow-hub
+tensorflow_addons

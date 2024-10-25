@@ -1,0 +1,27 @@
+{
+  "os":  "Linux-5.4.0-196-generic-x86_64-with-glibc2.17",
+  "python":  "3.8.20",
+  "startedAt":  "2024-10-22T01:30:41.937996Z",
+  "program":  "train_all.py",
+  "codePath":  "train_all.py",
+  "root":  "/data/ckpt/baoshifeng/vig_pytorch",
+  "host":  "ubuntu",
+  "username":  "baoshifeng",
+  "executable":  "/home/baoshifeng/anaconda3/envs/ViG/bin/python",
+  "codePathLocal":  "train_all.py",
+  "cpu_count":  40,
+  "cpu_count_logical":  80,
+  "disk":  {
+    "/":  {
+      "total":  "878442569728",
+      "used":  "625781944320"
+    }
+  },
+  "memory":  {
+    "total":  "540683739136"
+  },
+  "cpu":  {
+    "count":  40,
+    "countLogical":  80
+  }
+}

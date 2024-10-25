@@ -1,0 +1,15 @@
+{"time":"2024-10-22T01:36:31.401984857Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-22T01:36:31.402023061Z","level":"INFO","msg":"created symlink","path":"/data/ckpt/baoshifeng/vig_pytorch/wandb/offline-run-20241022_013631-fagp1yxy/logs/debug-core.log"}
+{"time":"2024-10-22T01:36:36.449382133Z","level":"INFO","msg":"created new stream","id":"fagp1yxy"}
+{"time":"2024-10-22T01:36:36.449484753Z","level":"INFO","msg":"stream: started","id":"fagp1yxy"}
+{"time":"2024-10-22T01:36:36.44958753Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fagp1yxy"}}
+{"time":"2024-10-22T01:36:36.449725566Z","level":"INFO","msg":"sender: started","stream_id":"fagp1yxy"}
+{"time":"2024-10-22T01:36:36.449658665Z","level":"INFO","msg":"handler: started","stream_id":{"value":"fagp1yxy"}}
+{"time":"2024-10-22T01:36:36.484900493Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-22T01:36:38.155447663Z","level":"INFO","msg":"stream: closing","id":"fagp1yxy"}
+{"time":"2024-10-22T01:36:38.155530047Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-22T01:36:38.155588532Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-22T01:36:38.156077494Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"fagp1yxy"}}
+{"time":"2024-10-22T01:36:38.156131411Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"fagp1yxy"}}
+{"time":"2024-10-22T01:36:38.156141391Z","level":"INFO","msg":"sender: closed","stream_id":"fagp1yxy"}
+{"time":"2024-10-22T01:36:38.156225134Z","level":"INFO","msg":"stream: closed","id":"fagp1yxy"}

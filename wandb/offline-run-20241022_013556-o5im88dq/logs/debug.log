@@ -1,0 +1,27 @@
+2024-10-22 01:35:56,523 INFO    MainThread:3143164 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-10-22 01:35:56,524 INFO    MainThread:3143164 [wandb_setup.py:_flush():79] Configure stats pid to 3143164
+2024-10-22 01:35:56,524 INFO    MainThread:3143164 [wandb_setup.py:_flush():79] Loading settings from /home/baoshifeng/.config/wandb/settings
+2024-10-22 01:35:56,524 INFO    MainThread:3143164 [wandb_setup.py:_flush():79] Loading settings from /data/ckpt/baoshifeng/vig_pytorch/wandb/settings
+2024-10-22 01:35:56,524 INFO    MainThread:3143164 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-22 01:35:56,524 INFO    MainThread:3143164 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-22 01:35:56,524 INFO    MainThread:3143164 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'train_all.py', 'program_abspath': '/data/ckpt/baoshifeng/vig_pytorch/train_all.py', 'program': 'train_all.py'}
+2024-10-22 01:35:56,524 INFO    MainThread:3143164 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-22 01:35:56,524 INFO    MainThread:3143164 [wandb_setup.py:_flush():79] Applying login settings: {'mode': 'offline'}
+2024-10-22 01:35:56,524 INFO    MainThread:3143164 [wandb_init.py:_log_setup():534] Logging user logs to /data/ckpt/baoshifeng/vig_pytorch/wandb/offline-run-20241022_013556-o5im88dq/logs/debug.log
+2024-10-22 01:35:56,525 INFO    MainThread:3143164 [wandb_init.py:_log_setup():535] Logging internal logs to /data/ckpt/baoshifeng/vig_pytorch/wandb/offline-run-20241022_013556-o5im88dq/logs/debug-internal.log
+2024-10-22 01:35:56,525 INFO    MainThread:3143164 [wandb_init.py:init():621] calling init triggers
+2024-10-22 01:35:56,525 INFO    MainThread:3143164 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {'base_dir': '/data/dataset/sunyueyi/', 'data_dir': '/data/dataset/sunyueyi/', 'dataset_perc': 1.0, 'crop_size': 224, 'test_dataset': 'vtab-caltech101', 'num_gpus': 1, 'model': 'resnet101', 'pretrained': False, 'initial_checkpoint': '', 'resume': '', 'no_resume_opt': False, 'num_classes': 1000, 'gp': None, 'img_size': None, 'crop_pct': None, 'mean': None, 'std': None, 'interpolation': '', 'batch_size': 32, 'validation_batch_size_multiplier': 1, 'opt': 'sgd', 'opt_eps': None, 'opt_betas': None, 'momentum': 0.9, 'weight_decay': 0.0001, 'clip_grad': None, 'sched': 'step', 'lr': 0.01, 'lr_noise': None, 'lr_noise_pct': 0.67, 'lr_noise_std': 1.0, 'lr_cycle_mul': 1.0, 'lr_cycle_limit': 1, 'warmup_lr': 0.0001, 'min_lr': 1e-05, 'epochs': 200, 'start_epoch': None, 'decay_epochs': 30, 'warmup_epochs': 3, 'cooldown_epochs': 10, 'patience_epochs': 10, 'decay_rate': 0.1, 'no_aug': False, 'repeated_aug': False, 'scale': [0.08, 1.0], 'ratio': [0.75, 1.3333333333333333], 'hflip': 0.5, 'vflip': 0.0, 'color_jitter': 0.4, 'aa': None, 'aug_splits': 0, 'jsd': False, 'reprob': 0.0, 'remode': 'const', 'recount': 1, 'resplit': False, 'mixup': 0.0, 'cutmix': 0.0, 'cutmix_minmax': None, 'mixup_prob': 1.0, 'mixup_switch_prob': 0.5, 'mixup_mode': 'batch', 'mixup_off_epoch': 0, 'smoothing': 0.1, 'train_interpolation': 'random', 'drop': 0.0, 'drop_connect': None, 'drop_path': None, 'drop_block': None, 'bn_tf': False, 'bn_momentum': None, 'bn_eps': None, 'sync_bn': False, 'dist_bn': '', 'split_bn': False, 'model_ema': False, 'model_ema_force_cpu': False, 'model_ema_decay': 0.9998, 'seed': 42, 'log_interval': 50, 'recovery_interval': 0, 'workers': 4, 'num_gpu': 1, 'save_images': False, 'amp': False, 'apex_amp': False, 'native_amp': False, 'channels_last': False, 'pin_mem': False, 'no_prefetcher': False, 'output': '', 'eval_metric': 'top1', 'tta': 0, 'local_rank': 0, 'use_multi_epochs_loader': False, 'init_method': 'env://', 'train_url': None, 'attn_ratio': 1.0, 'pretrain_path': None, 'evaluate': False, 'log_wandb': True, 'device': '4'}
+2024-10-22 01:35:56,525 INFO    MainThread:3143164 [wandb_init.py:init():671] starting backend
+2024-10-22 01:35:56,525 INFO    MainThread:3143164 [wandb_init.py:init():675] sending inform_init request
+2024-10-22 01:35:56,528 INFO    MainThread:3143164 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-22 01:35:56,529 INFO    MainThread:3143164 [wandb_init.py:init():688] backend started and connected
+2024-10-22 01:35:56,535 INFO    MainThread:3143164 [wandb_init.py:init():783] updated telemetry
+2024-10-22 01:35:56,535 INFO    MainThread:3143164 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-10-22 01:36:01,820 INFO    MainThread:3143164 [wandb_init.py:init():867] starting run threads in backend
+2024-10-22 01:36:01,916 INFO    MainThread:3143164 [wandb_run.py:_console_start():2463] atexit reg
+2024-10-22 01:36:01,916 INFO    MainThread:3143164 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-10-22 01:36:01,916 INFO    MainThread:3143164 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-10-22 01:36:01,916 INFO    MainThread:3143164 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-10-22 01:36:01,918 INFO    MainThread:3143164 [wandb_init.py:init():911] run started, returning control to user process
+2024-10-22 01:36:03,464 WARNING MsgRouterThr:3143164 [router.py:message_loop():77] message_loop has been closed

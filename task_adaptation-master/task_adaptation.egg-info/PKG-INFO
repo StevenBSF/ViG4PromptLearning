@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: task-adaptation
+Version: 0.1
+Summary: Task Adaptation - a package for evaluating visual models.
+Home-page: https://github.com/google/task_adaptation
+Author: Google LLC
+Author-email: task-adaptation@google.com
+License: Apache 2.0
+Keywords: tensorflow machine transfer learning visual task adaptation benchmark vtab computer vision
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+License-File: LICENSE
+License-File: AUTHORS

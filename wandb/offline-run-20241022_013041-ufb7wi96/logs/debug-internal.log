@@ -1,0 +1,15 @@
+{"time":"2024-10-22T01:30:41.946563003Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-22T01:30:41.946598823Z","level":"INFO","msg":"created symlink","path":"/data/ckpt/baoshifeng/vig_pytorch/wandb/offline-run-20241022_013041-ufb7wi96/logs/debug-core.log"}
+{"time":"2024-10-22T01:30:46.994133698Z","level":"INFO","msg":"created new stream","id":"ufb7wi96"}
+{"time":"2024-10-22T01:30:46.994238945Z","level":"INFO","msg":"stream: started","id":"ufb7wi96"}
+{"time":"2024-10-22T01:30:46.994286098Z","level":"INFO","msg":"sender: started","stream_id":"ufb7wi96"}
+{"time":"2024-10-22T01:30:46.994269709Z","level":"INFO","msg":"handler: started","stream_id":{"value":"ufb7wi96"}}
+{"time":"2024-10-22T01:30:46.994290249Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ufb7wi96"}}
+{"time":"2024-10-22T01:30:47.247673604Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-22T01:30:47.323336375Z","level":"INFO","msg":"stream: closing","id":"ufb7wi96"}
+{"time":"2024-10-22T01:30:47.323395243Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-22T01:30:47.323454263Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-22T01:30:47.323854877Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"ufb7wi96"}}
+{"time":"2024-10-22T01:30:47.323887633Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ufb7wi96"}}
+{"time":"2024-10-22T01:30:47.323921334Z","level":"INFO","msg":"sender: closed","stream_id":"ufb7wi96"}
+{"time":"2024-10-22T01:30:47.32398035Z","level":"INFO","msg":"stream: closed","id":"ufb7wi96"}

@@ -1,0 +1,15 @@
+{"time":"2024-10-21T08:21:39.290601874Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-21T08:21:39.290638147Z","level":"INFO","msg":"created symlink","path":"/data/ckpt/baoshifeng/vig_pytorch/wandb/offline-run-20241021_082139-nxss27tk/logs/debug-core.log"}
+{"time":"2024-10-21T08:21:44.33584072Z","level":"INFO","msg":"created new stream","id":"nxss27tk"}
+{"time":"2024-10-21T08:21:44.335936049Z","level":"INFO","msg":"stream: started","id":"nxss27tk"}
+{"time":"2024-10-21T08:21:44.335992329Z","level":"INFO","msg":"sender: started","stream_id":"nxss27tk"}
+{"time":"2024-10-21T08:21:44.33598886Z","level":"INFO","msg":"handler: started","stream_id":{"value":"nxss27tk"}}
+{"time":"2024-10-21T08:21:44.335971454Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"nxss27tk"}}
+{"time":"2024-10-21T08:21:44.371882514Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-21T08:21:44.639263518Z","level":"INFO","msg":"stream: closing","id":"nxss27tk"}
+{"time":"2024-10-21T08:21:44.639319175Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-21T08:21:44.639402733Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-21T08:21:44.639854472Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"nxss27tk"}}
+{"time":"2024-10-21T08:21:44.639883845Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"nxss27tk"}}
+{"time":"2024-10-21T08:21:44.639897904Z","level":"INFO","msg":"sender: closed","stream_id":"nxss27tk"}
+{"time":"2024-10-21T08:21:44.639984182Z","level":"INFO","msg":"stream: closed","id":"nxss27tk"}

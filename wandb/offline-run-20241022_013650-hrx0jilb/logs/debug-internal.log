@@ -1,0 +1,15 @@
+{"time":"2024-10-22T01:36:50.689371574Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-22T01:36:50.689408385Z","level":"INFO","msg":"created symlink","path":"/data/ckpt/baoshifeng/vig_pytorch/wandb/offline-run-20241022_013650-hrx0jilb/logs/debug-core.log"}
+{"time":"2024-10-22T01:36:55.736037329Z","level":"INFO","msg":"created new stream","id":"hrx0jilb"}
+{"time":"2024-10-22T01:36:55.73615083Z","level":"INFO","msg":"stream: started","id":"hrx0jilb"}
+{"time":"2024-10-22T01:36:55.736376217Z","level":"INFO","msg":"sender: started","stream_id":"hrx0jilb"}
+{"time":"2024-10-22T01:36:55.736247857Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"hrx0jilb"}}
+{"time":"2024-10-22T01:36:55.736318121Z","level":"INFO","msg":"handler: started","stream_id":{"value":"hrx0jilb"}}
+{"time":"2024-10-22T01:36:55.769773174Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-22T01:36:57.728076511Z","level":"INFO","msg":"stream: closing","id":"hrx0jilb"}
+{"time":"2024-10-22T01:36:57.728151775Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-22T01:36:57.728236603Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-22T01:36:57.728656325Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"hrx0jilb"}}
+{"time":"2024-10-22T01:36:57.728704178Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"hrx0jilb"}}
+{"time":"2024-10-22T01:36:57.728713162Z","level":"INFO","msg":"sender: closed","stream_id":"hrx0jilb"}
+{"time":"2024-10-22T01:36:57.728778902Z","level":"INFO","msg":"stream: closed","id":"hrx0jilb"}
